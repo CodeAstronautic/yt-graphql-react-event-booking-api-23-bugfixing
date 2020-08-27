@@ -1,5 +1,5 @@
 # GraphQL + React Event Booking API
-This code belongs to a tutorial series: [https://github.com/academind/yt-graphql-react-event-booking-api.git](https://github.com/academind/yt-graphql-react-event-booking-api.git)
+This code belongs to a tutorial series: [https://github.com/mPooja-15/yt-graphql-react-event-booking-api.git](https://github.com/academind/yt-graphql-react-event-booking-api.git)
 
 Learn how to build a GraphQL API (with Node.js) and a React.js frontend from scratch in this series.
 
